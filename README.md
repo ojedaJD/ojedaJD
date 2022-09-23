@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ojedaJD
 - 👀 I’m interested in engineering and mathematics, but I also have a cute dog that loves to go hiking. 
-- 🌱 I’m currently learning web developemnt. 
-- 💞️ I’m looking to collaborate on software engineering projects. 
+- 🌱 I’m currently learning web development. 
+- 💞️ I’m looking to collaborate with anyone that is also learning software development. 
 - 📫 Reach me at jddedios.ojeda@gmail.com or ojeda.16@osu.edu
 
 <!---
